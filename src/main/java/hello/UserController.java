@@ -15,7 +15,7 @@ public class UserController {
     public User view(@PathVariable("id") Long id) {
         User user = new User();
         user.setId(id);
-        user.setName("zhang");
+        user.setName("leehongjian");
         return user;
     }
 
