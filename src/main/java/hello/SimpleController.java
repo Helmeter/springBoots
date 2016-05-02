@@ -17,5 +17,10 @@ public class SimpleController {
         return "Hello World!";
     }
 
+    String homes() {
+        return "Hello World!";
+    }
+
+
 
 }
